@@ -16,3 +16,7 @@ Esta es mi primera página web con **_HTML_**. Aquí voy a ir actualizando las n
 - [Información sobre las entregas] (http://www.pokemon-sunmoon.com/es-es/)
 - [**_Wiki_** oficial de _Pokémon_, página de consultas] (http://es.pokemon.wikia.com/wiki/WikiDex)
 - [Página oficial de _Pokémon_] (http://www.pokemon.com/es/)
+
+Posteriormente a la salida en venta de estos videojuegos, iré actualizando la página añadiendo información útil sobre éstos. 
+
+**La página se va a centrar en _Pokémon_ Sol y Luna.**
