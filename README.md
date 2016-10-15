@@ -10,7 +10,7 @@ Esta es mi primera página web con **_HTML_**. Aquí voy a ir actualizando las n
 - Precios y lugares de venta de los juegos
 - Textos resumidos pero que aporten suficiente información.
 
-### LiNKS
+### LINKS
 #### Además, dispondréis de múltiples enlaces informativos para que no os quede ninguna duda o necesiteis consultar algo sobre el propio juego o su contenido:
 
 - [Información sobre las entregas] (http://www.pokemon-sunmoon.com/es-es/)
