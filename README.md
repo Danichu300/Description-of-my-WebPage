@@ -8,7 +8,7 @@ Esta es mi primera página web con **_HTML_**. Aquí voy a ir actualizando las n
 - Imágenes representativas sobre escenas que vayan saliendo
 - Información sobre el _anime_
 - Precios y lugares de venta de los juegos
-- Textos resumidos pero que aporten suficiente información.
+- Textos resumidos pero que aporten suficiente información
 
 ### LINKS
 #### Además, dispondréis de múltiples enlaces informativos para que no os quede ninguna duda o necesiteis consultar algo sobre el propio juego o su contenido:
